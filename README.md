@@ -1,3 +1,5 @@
+[![Demo Video](https://img.youtube.com/vi/cA4sBTtOzDQ/0.jpg)](https://youtu.be/cA4sBTtOzDQ?feature=shared)
+
 # Car Animation
 
 A 3D car animation web application built with React and Three.js, featuring interactive scenes and realistic models.
@@ -85,21 +87,7 @@ loader.load(
 );
 ```
 
-## How to Add a Video to Your README
 
-You can add a demo video to your README in two ways:
-
-1. **Embed a YouTube Video (recommended):**
-   ```markdown
-   [![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
-   ```
-   Replace `YOUTUBE_VIDEO_ID` with your actual YouTube video ID.
-
-2. **Add a Local Video (not supported by GitHub preview):**
-   You can link to a video file in your repo, but GitHub will only show it as a link, not an embedded player:
-   ```markdown
-   [Download Demo Video](./path/to/video.mp4)
-   ```
 
 ## License
 
